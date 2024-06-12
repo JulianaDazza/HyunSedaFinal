@@ -74,3 +74,6 @@ La elección de abrazar la arquitectura de microservicios se sustenta en la impe
 
 3.4. Selección de Tecnologías
 En esta ocasión, se escogió H2Database como base de datos debido a su ligereza, facilidad de implementación y capacidad para garantizar la integridad de los datos. Para el desarrollo, se utilizó IntelliJ IDEA como entorno de desarrollo integrado (IDE), además, se han utilizado tecnologías complementarias como Hibernate y Lombok para simplificar la interacción con la base de datos y reducir la cantidad de código boilerplate, respectivamente, utilizando también Junit para la ejecución de pruebas. Además, se utilizó Swagger con el fin de facilitar la documentación de las API REST, asi como la autorización y autenticación con JWT y Spring Security para realizar un chequeo de identidad según quien esta tratando de ingresar al programa. Estas herramientas adicionales contribuyen a la eficiencia y calidad del desarrollo de nuestra aplicación.
+
+Finalmente, se anexa el demo del programa para HyunSeda:
+https://youtu.be/2U0EaPRnzJQ
